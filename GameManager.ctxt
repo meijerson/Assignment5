@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=amountOfSides\ amountOfDice\ targetNumber
+comment0.target=GameManager(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ playGame()
+comment2.params=amountOfSides
+comment2.target=void\ rollDice(int)
+comment3.params=
+comment3.target=void\ printBust()
+comment4.params=
+comment4.target=void\ printRolls()
+comment5.params=
+comment5.target=void\ printDiceTotaled()
+comment6.params=
+comment6.target=void\ printWin()
+comment7.params=
+comment7.target=void\ printLose()
+numComments=8

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=dice
+comment0.target=boolean\ checkIfBust(int[])
+comment1.params=amountOfSides\ roll
+comment1.target=boolean\ checkIfSizeEqualsRoll(int,\ int)
+comment2.params=diceTotaled\ targetNumber
+comment2.target=boolean\ checkIfUserWon(int,\ int)
+numComments=3
